@@ -1,4 +1,8 @@
 ## Welcome to the github nerds
+
+I'm currently working as a civilian web developer for the US Air Force (🫡), in my free time I'm trying to slog through the Dune books, meandering around outside, and currently building an absolute dogcrap game in C++ using raylib
+If you're an employer know that I will bring the same level of professionalism and commitment to work as I do to this incredibly professional GitHub profile
+5 Star Culture Hire btw
 ![image](https://github.com/user-attachments/assets/2c7b04a7-3e6e-44d7-b04a-674d67014d7f)
 
 <!--
