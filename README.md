@@ -1,4 +1,5 @@
 ## Welcome to the github nerds
+![image](https://github.com/user-attachments/assets/2c7b04a7-3e6e-44d7-b04a-674d67014d7f)
 
 <!--
 **AustinDale1/AustinDale1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
