@@ -1,6 +1,6 @@
 ## Welcome to the github
 
-I'm currently working as a civilian web developer for the USAF, in my free time I'm building some games in C++ using raylib
+I'm currently working as a civilian software developer for the USAF, in my free time I'm building some games in C++ using raylib
 
 
 
