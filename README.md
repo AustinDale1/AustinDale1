@@ -4,7 +4,7 @@ I'm currently working as a civilian software developer for the USAF, in my free 
 Projects in progress:  
 Terminal-Roughly finished, need to go through and cleanup code and animations  
 InfiniteSky-Working, hitboxes are being a pain so taking a break  
-BibleDrillApp-React native app for android that allows people to practice, starting 12/162024
+BibleDrillApp-React native app for android that allows people to practice, starting 12/16/2024
 
 
 
