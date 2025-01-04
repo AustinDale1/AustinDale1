@@ -1,6 +1,6 @@
 ## Welcome to the github
 
-I'm currently working as a civilian software developer for the USAF, in my free time I'm building some games in C++ using raylib  
+I'm currently working as a civilian software developer for the USAF, sadly they don't use GitHub so this site is just side projects, in my free time I'm building some games in C++ using raylib  
 Projects in progress:  
 Terminal-Roughly finished, need to go through and cleanup code and animations  
 InfiniteSky-Working, hitboxes are being a pain so taking a break  
